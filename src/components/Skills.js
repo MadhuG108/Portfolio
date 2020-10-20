@@ -50,11 +50,7 @@ function Skills() {
                   <ul className="fa-ul mb-0">
                     <li>
                         <span className="fa-li"><ion-icon name="checkmark-sharp"></ion-icon></span>
-                        Linux OS & Windows OS
-                    </li>
-                    <li>
-                        <span className="fa-li"><ion-icon name="checkmark-sharp"></ion-icon></span>
-                        SQL
+                        Angular
                     </li>
                     <li>
                         <span className="fa-li"><ion-icon name="checkmark-sharp"></ion-icon></span>
@@ -62,7 +58,15 @@ function Skills() {
                     </li>
                     <li>
                         <span className="fa-li"><ion-icon name="checkmark-sharp"></ion-icon></span>
+                        SQL
+                    </li>
+                    <li>
+                        <span className="fa-li"><ion-icon name="checkmark-sharp"></ion-icon></span>
                         Agile Development & Scrum
+                    </li>
+                    <li>
+                        <span className="fa-li"><ion-icon name="checkmark-sharp"></ion-icon></span>
+                        Linux OS & Windows OS
                     </li>
                 </ul>
                 </div></FadeIn>

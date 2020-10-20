@@ -31,6 +31,7 @@ function Home() {
                     </p>
                     <div className="social-icons">
                         <a className="social-icon" href="http://linkedin.com/in/madhu-rima-g-921302136" rel="noopener noreferrer" target="_blank"><ion-icon size="large" name="logo-linkedin"></ion-icon></a>
+                        <a className="social-icon" href="https://github.com/MadhuG108/Portfolio" rel="noopener noreferrer" target="_blank"><ion-icon size="large" name="logo-github"></ion-icon></a>
                     </div>
                     </FadeIn>
                 </div>

@@ -15,7 +15,6 @@ function NavBar() {
                         <li className="nav-item "><Link to={process.env.PUBLIC_URL+"/experience"}className="nav-link" >Experience</Link></li>
                         <li className="nav-item  "><Link to={process.env.PUBLIC_URL+"/education"} className="nav-link">Education</Link></li>
                         <li className="nav-item "><Link to={process.env.PUBLIC_URL+"/skills"} className="nav-link" >Skills</Link></li>
-                        <li className="nav-item "><Link to={process.env.PUBLIC_URL+"/projects"} className="nav-link" >Projects</Link></li>
                         <li className="nav-item  "><Link to={process.env.PUBLIC_URL+"/interest"} className="nav-link" >Interest</Link></li>
                     </ul>
             </div>
