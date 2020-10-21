@@ -24,9 +24,9 @@ function Home() {
                     </FadeIn>
                     <FadeIn delay="150">
                     <p className="lead mb-5">
-                    Currently, I am a Angular developer
-                    My specialties includes in building rich prototypes and applications using HTML, CSS, JavaScript, Typescript, Angular JS, Angular 2,4,6,7,8,10 C#, SQL.
-                    Excellent communication skills, interpersonal, hardworking and a very good team player and ability to effectively communicate with all levels of the organization such as technical, management and customers.
+                    Currently, I am working as an Angular developer. 
+                    My specialties includes in building rich prototypes and applications using HTML, CSS, JavaScript, Typescript, Angular JS, Angular 2,4,6,7,8,10, React, C#, SQL. Consuming the services from the backend (Rest, Restful WebAPI's). 
+                    Excellent communication skills, interpersonal, hardworking and a very good team player and ability to effectively communicate with all levels of the organization such as technical, management and customers. 
                     Highly motivated, strong analytical skills and ability to deliver in fast paced, high stress environment.
                     </p>
                     <div className="social-icons">
